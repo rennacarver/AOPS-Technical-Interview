@@ -9,7 +9,6 @@
 ## Thinking/Questions Asked
  - Does the runTask() function call know which instance of addToQueue called it? Yes
    - Running runTask() twice from addToQueue does not start the next task
- - Running addToQueue() adds it to the queue on the HTML page
 
 ## Lessons Learned
  - The initial intuition/insight ('it feels recursive') was correct
